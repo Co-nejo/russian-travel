@@ -14,6 +14,7 @@
     .intro {
         width: calc(100% - 48px);
         padding: 88px 0 0;
+        margin: 0 24px;
     }
 }
 
@@ -21,5 +22,6 @@
     .intro {
         width: calc(100% - 32px);
         padding: 64px 0 0;
+
     }
 }

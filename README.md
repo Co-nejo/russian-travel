@@ -12,4 +12,4 @@
 * Подключить к проекту JS
 * Добавить английскую версию сайта
 
-# Ссылка на проект https://github.com/Co-nejo/russian-travel/
+# Ссылка на проект https://co-nejo.github.io/russian-travel/

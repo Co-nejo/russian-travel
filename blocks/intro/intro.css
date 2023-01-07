@@ -22,5 +22,6 @@
     .intro {
         width: calc(100% - 32px);
         padding: 64px 0 0;
+        margin-left: 16px;
     }
 }
